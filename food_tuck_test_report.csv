@@ -1,0 +1,12 @@
+Test Category,Test Case,Status,Remarks
+Functionality,Navigation,Pass,All menus and links are working correctly
+Functionality,Forms,Pass,Subscription and contact forms submit data properly
+Functionality,Responsiveness,Pass,"Website adapts well on mobile, tablet, and desktop"
+Performance,Load Time,Pass,Loads within 2-3 seconds
+Performance,Image Optimization,Fail,Some images can be optimized for faster loading
+UI/UX,Design,Pass,Modern and attractive user-friendly interface
+UI/UX,Contrast Issues,Fail,"Some text blends with the background, needs improvement"
+Security,HTTPS Enabled,Pass,SSL is enabled for secure browsing
+Security,Form Validation,Fail,Additional security features like CAPTCHA can be added
+Compatibility,Browsers,Pass,"Works correctly on Chrome, Firefox, and Edge"
+Compatibility,Devices,Pass,Responsive on mobile and desktop
